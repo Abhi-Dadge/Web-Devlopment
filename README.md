@@ -1,3 +1,3 @@
 # Web-Devlopment
 
-this web based project one of the best project
+This web based Mini Projects 
